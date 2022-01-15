@@ -1,0 +1,56 @@
+{
+  "transactions": [
+    {
+      "id": "7cb0ceb1-d306-4b42-bd43-ff351b9213a3",
+      "description": "Subway fries",
+      "date": "Wed Jan 12 2022 15:21:35 GMT-0500 (Eastern Standard Time)"
+    },
+    {
+      "id": "69b4c48c-25a1-421a-aef2-3d5208bec209",
+      "description": "first post",
+      "date": "Wed Jan 12 2022 15:41:05 GMT-0500 (Eastern Standard Time)"
+    },
+    {
+      "id": "a3eb540d-730b-46e8-ae7a-58d46f395a83",
+      "description": "Finished redux-saga training",
+      "date": "Wed Jan 12 2022 15:45:44 GMT-0500 (Eastern Standard Time)"
+    },
+    {
+      "id": "948d3640-429d-49a8-9648-f110ba0e1734",
+      "description": "first post",
+      "date": "Fri Jan 14 2022 20:52:12 GMT-0500 (Eastern Standard Time)"
+    },
+    {
+      "id": "4435803a-fc03-4438-8916-022bb82178bd",
+      "description": "payday",
+      "date": "Fri Jan 14 2022 20:52:29 GMT-0500 (Eastern Standard Time)"
+    }
+  ],
+  "values": [
+    {
+      "id": "7cb0ceb1-d306-4b42-bd43-ff351b9213a3",
+      "value": "10.00",
+      "isExpense": true
+    },
+    {
+      "id": "69b4c48c-25a1-421a-aef2-3d5208bec209",
+      "value": "220.00",
+      "isExpense": false
+    },
+    {
+      "id": "a3eb540d-730b-46e8-ae7a-58d46f395a83",
+      "value": "5.00",
+      "isExpense": false
+    },
+    {
+      "id": "948d3640-429d-49a8-9648-f110ba0e1734",
+      "value": "20.00",
+      "isExpense": true
+    },
+    {
+      "id": "4435803a-fc03-4438-8916-022bb82178bd",
+      "value": "22.00",
+      "isExpense": false
+    }
+  ]
+}
